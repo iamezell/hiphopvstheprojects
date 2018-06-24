@@ -1496,7 +1496,7 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = {\n  gameWidth: 760,\n  gameHeight: 400,\n  localStorageName: 'phaseres6webpack'\n};//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvY29uZmlnLmpzPzQyNjQiXSwibmFtZXMiOlsiZ2FtZVdpZHRoIiwiZ2FtZUhlaWdodCIsImxvY2FsU3RvcmFnZU5hbWUiXSwibWFwcGluZ3MiOiI7Ozs7O2tCQUFlO0FBQ2JBLGFBQVcsR0FERTtBQUViQyxjQUFZLEdBRkM7QUFHYkMsb0JBQWtCO0FBSEwsQyIsImZpbGUiOiIxMzcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XG4gIGdhbWVXaWR0aDogNzYwLFxuICBnYW1lSGVpZ2h0OiA0MDAsXG4gIGxvY2FsU3RvcmFnZU5hbWU6ICdwaGFzZXJlczZ3ZWJwYWNrJ1xufVxuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vc3JjL2NvbmZpZy5qcyJdLCJzb3VyY2VSb290IjoiIn0=");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = {\n  gameWidth: 360,\n  gameHeight: 592,\n  localStorageName: 'phaseres6webpack'\n};//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvY29uZmlnLmpzPzQyNjQiXSwibmFtZXMiOlsiZ2FtZVdpZHRoIiwiZ2FtZUhlaWdodCIsImxvY2FsU3RvcmFnZU5hbWUiXSwibWFwcGluZ3MiOiI7Ozs7O2tCQUFlO0FBQ2JBLGFBQVcsR0FERTtBQUViQyxjQUFZLEdBRkM7QUFHYkMsb0JBQWtCO0FBSEwsQyIsImZpbGUiOiIxMzcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XG4gIGdhbWVXaWR0aDogMzYwLFxuICBnYW1lSGVpZ2h0OiA1OTIsXG4gIGxvY2FsU3RvcmFnZU5hbWU6ICdwaGFzZXJlczZ3ZWJwYWNrJ1xufVxuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vc3JjL2NvbmZpZy5qcyJdLCJzb3VyY2VSb290IjoiIn0=");
 
 /***/ }),
 /* 138 */
@@ -4024,7 +4024,7 @@ eval("var isObject = __webpack_require__(/*! ./isObject */ 93),\n    isSymbol = 
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! babel-polyfill */134);
-module.exports = __webpack_require__(/*! /Users/ezellburke/Documents/repos/lore/src/main.js */133);
+module.exports = __webpack_require__(/*! /Users/ezellburke/Documents/repos/hiphopvstheprojects/src/main.js */133);
 
 
 /***/ })
